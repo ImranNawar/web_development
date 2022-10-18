@@ -1,0 +1,36 @@
+HTTP: applicaton layer protocol
+HTTPS: for higher security
+
+Website/Webpages are files stored on  computers that run a piece of software called a web server(apache, nginx,etc)
+Hosting companies provide space on a server for your website
+Domain names can be purchased from regitrars and linked to your hosting account/web server
+DNS is used to map IP addressses to domain names.
+
+Web development may be overwhelming because there are so many technologies but html and css are the building blocks.
+Web development involves many different technologies, html, css, programming languages, frameworks,tools and much more.
+The role of web technologies:
+HTML = content display/structure
+CSS = style & design
+JAVASCRIPT = dynamic front end programming
+PHP, PYTHON,C#, JS = backend programming
+MYSQL, MONGODB = database/ storage
+
+HTML hypertext markup language: html is not  programming language, (programming language is where you write code and it do work according to logic), markup for creating webpages/documents. html is extremely important and relevent but is also just the begining.
+
+CSS cascading style sheets  ; styling /styleshet language, used for styling html elements, can be extanded with sass
+
+
+Recommended tools:-
+Browsor : CHROME
+Editor: VS CODE
+Extensions: live server
+
+SHORTCUTS:-
+ctrl + , : to go to setting in vs code
+ctrl + u : to show your html code on web browser
+ctrl + / : to comment the whole line or your select lines , empty comment
+! + enter : to create html structure
+ctrl +f : to search in document
+ctrl + enter: go to next line if you are in mid of line
+shift+alt+down arrow : to copy the whole line below
+alt+up or down: to move the whole line
