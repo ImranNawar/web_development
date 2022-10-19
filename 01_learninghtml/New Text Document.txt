@@ -34,3 +34,8 @@ ctrl +f : to search in document
 ctrl + enter: go to next line if you are in mid of line
 shift+alt+down arrow : to copy the whole line below
 alt+up or down: to move the whole line
+shift + tab : to bring back the select lines
+
+HTML 5 sematic tags:
+most popular tags of html 5
+<header>, <footer>, <nav>, <main>, <section>, <article>, <aside>.
