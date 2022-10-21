@@ -1,0 +1,18 @@
+Three ways we can use CSS:-
+Inline CSS
+Don't go for Inline CSS. You should separate your styling, you should keep styling out of your markup.
+Inline CSS is much harder to read, to change, its not a good practice.
+
+Internal CSS:
+Its is still on the same page, on your html page but it is separate from your html. <style> </style>
+
+External CSS:
+Here you have separate file for your css. Through <link> tag you will link your styling to html file.
+External CSS is the preferred one.
+
+website: htmlcolorcodes.com   for selecting colors
+
+
+ctrl+ / : comment in css
+f12 in chrome : to open development tools (dev tools)
+ctrl + and - : to zoom in and out 
