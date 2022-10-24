@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vh & Vw Units</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        header{         /*insert link of online image */
+            background: #333 url('https://source.unsplash.com/daily') no-repeat center center/cover;
+            color: #fff;
+            height: 100vh;
+            text-align: center;
+            padding: 2rem;
+            padding-top: 15rem;
+
+        }
+        header h1{
+            font-size: 3rem;
+        }
+        header p {
+            margin: 1rem 0;
+        }
+        .btn{
+            display: inline-block;
+            text-decoration: none;
+            background: #f4f4f4;
+            color: #333;
+            padding: 0.75rem 2rem;
+        }
+        section{
+            padding: 2rem;
+        }
+
+        @media(max-height: 450px){
+            header {
+                padding-top: 5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome To Our Website</h1>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing 
+            elit. Accusantium voluptates ullam quisquam dolorum! Quibusdam
+            mollitia vitae, quod facere laboriosam molestiae!</p>
+        <a href="#" class="btn">Find Out More</a>
+    </header>
+    <section>
+        <h3>About Our Company</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione ipsam ex aperiam consectetur dolores laboriosam error cumque, nam sunt magni alias aspernatur laudantium ad expedita quibusdam necessitatibus voluptatem modi dignissimos voluptatum quod. Mollitia maiores ipsam consectetur quia aperiam nostrum, quo explicabo. Placeat consequuntur nostrum iure tempore, odit consectetur voluptates corporis?</p>
+    </section>
+</body>
+</html>

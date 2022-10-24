@@ -1,0 +1,14 @@
+Responsive Design:
+using HTML/CSS to make a website or app layout adapt to different screen sizes
+It is a necessity to build resposive layouts
+Practice To Use:
+-> you can check different screen sizes in chrome tool.
+-> pixels is a fix unit, em and rem are simlar but they are multiplier of different things. 
+em unit is multiplier and relative to the font size of its parent container.
+rem unit is relative to the font size of root html element.
+
+vh view for height, vw view for width units
+vh is 100 for complete page regardless of screen size.
+
+
+source unsplash.com
