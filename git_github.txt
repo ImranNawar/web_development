@@ -1,0 +1,15 @@
+To get files from existing repository
+git clone "url"              -->( inside code)
+
+git init
+git add .
+git commit -m ""
+git push
+
+
+ISSUE: I was committing to my github repository from git terminal from some days, the 
+commits was done successfully but it was not shown on my activity graph.
+The problem was that my github email and git config email which I given was different.
+check it by "git config user.email" in terminal 
+git config --global user.email "imran1nawar@gmail.com"
+git config --global user.name "ImranNawar"
