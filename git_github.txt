@@ -13,3 +13,34 @@ The problem was that my github email and git config email which I given was diff
 check it by "git config user.email" in terminal 
 git config --global user.email "imran1nawar@gmail.com"
 git config --global user.name "ImranNawar"
+
+
+
+Git Commands
+# Initialize a repo
+git init
+
+# Add to local repo
+git add .
+
+# Commit to local repo
+git commit -m 'Initial Commit'
+
+# Add remote github repo
+git remote add origin https://github.com/USERNAME/REPO.git
+
+# Initial push
+git push -u origin master
+
+# Pushes after initial
+git push
+
+  Links
+Namecheap Affiliate Link:
+
+https://namecheap.pxf.io/c/1299552/386170/5618
+
+Netlify:
+
+http://www.netlify.com
+forms netlify.com  //for form method which will funtional
