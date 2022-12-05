@@ -1,0 +1,22 @@
+There below three methods for compiling sass file to css file.
+1) By using node 
+
+Install node.
+check: npm --version.
+
+installing package.json file
+npm init   -y (-y for default)
+
+Once install node sass it should get listed as dependency
+npm install node-sass
+
+2) Koala (GUI based software)
+
+3) By using extension:
+live sass compiler
+
+Topics:
+variables & partials
+nesting & structuring
+inheritance & contrast
+functions, maxins & more
