@@ -15,7 +15,8 @@ JAVASCRIPT = dynamic front end programming
 PHP, PYTHON,C#, JS = backend programming
 MYSQL, MONGODB = database/ storage
 
-HTML hypertext markup language: html is not  programming language, (programming language is where you write code and it do work according to logic), markup for creating webpages/documents. html is extremely important and relevent but is also just the begining.
+HTML hypertext markup language: html is not  programming language, (programming language is where you write code and it do work according to logic),
+ markup for creating webpages/documents. html is extremely important and relevent but is also just the begining.
 
 CSS cascading style sheets  ; styling /styleshet language, used for styling html elements, can be extanded with sass
 
