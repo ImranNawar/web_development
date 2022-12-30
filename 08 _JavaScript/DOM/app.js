@@ -126,3 +126,49 @@ val = listItem.nextSibling;
 
 console.log(val);
 */
+
+// Local Storage and Session Storage
+
+// set Local storage item
+// localStorage.setItem("name", "Khan");
+
+// set Session Storage item
+// sessionStorage.setItem("name", "Jan");
+
+//remove from storage
+// localStorage.removeItem("name");
+
+// localStorage.removeItem("task");
+
+// get from storage
+// const name = localStorage.getItem("name");
+
+// // clear local storage
+// localStorage.clear();
+
+// console.log(name);
+
+document.querySelector("form").addEventListener("submit", function (e) {
+  const task = document.getElementById("task").value;
+
+  let tasks;
+
+  if (localStorage.getItem("task") === null) {
+    tasks = [];
+  } else {
+    tasks = JSON.parse(localStorage.getItem("tasks"));
+  }
+
+  tasks.push(task);
+
+  localStorage.setItem("tasks", JSON.stringify(tasks));
+  alert("Task saved");
+
+  e.preventDefault();
+});
+
+const tasks = JSON.parse(localStorage.getItem("tasks"));
+
+tasks.forEach(function (task) {
+  console.log(task);
+});
