@@ -15,6 +15,7 @@ const khan = new Person("Khan", "3-30-2002");
 console.log(khan);
 console.log(khan.calculateAge());
 */
+
 /////////////////////////////////////////////
 //String
 /*
@@ -63,6 +64,7 @@ const re1 = /\w+/;
 const re2 = new RegExp("\\w+");
 console.log(re2);
 */
+
 //////////////////////////////////////////////
 //Prototypes
 /*
