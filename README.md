@@ -13,10 +13,13 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 ## JavaScript
 JavaScript is a programming language used to make web pages interactive. You will find many examples of JavaScript code in this repository that will help you to add interactivity to your web pages.
 
-## How to Use
+### How to Use
 Feel free to explore this repository and use the code examples to help you learn web development. You can also use these examples to jumpstart your own web development projects.
 
-## Contributions
+### License
+This repository is licensed under the **MIT License**. Feel free to contribute.
+
+### Contributions
 If you find any issues or errors in the code, please feel free to submit an issue or pull request. I am always happy to receive feedback and contributions to help improve the quality of this repository.
 
 Thank you for visiting my web development repository!
