@@ -1,13 +1,5 @@
-To get files from existing repository
-git clone "url"              -->( inside code)
-
-git init
-git add .
-git commit -m ""
-git push
-
-
-ISSUE: I was committing to my github repository from git terminal from some days, the 
+ISSUE:
+I was committing to my github repository from git terminal from some days, the 
 commits was done successfully but it was not shown on my activity graph.
 The problem was that my github email and git config email which I given was different.
 check it by "git config user.email" in terminal 
@@ -35,12 +27,25 @@ git push -u origin master
 # Pushes after initial
 git push
 
-  Links
-Namecheap Affiliate Link:
 
+/*******************************************************/
+LINKS:
+Namecheap Affiliate Link:
 https://namecheap.pxf.io/c/1299552/386170/5618
 
 Netlify:
-
 http://www.netlify.com
 forms netlify.com  //for form method which will funtional
+
+
+/*******************************************************/
+CONTRIBUTING TO OPEN SOURCE: 
+1) git fork
+2) git clone
+3) git checkout -b branch_name(new)
+4) make changes
+5) git add .
+6) git commit -m "  "
+7) git push -u origin your_branch_name
+8)  COMPARE AND PULL REQUEST (on website)
+9)  CREATE PULL REQUEST
