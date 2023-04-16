@@ -11,7 +11,9 @@ import './index.css';
 // import Lists from './components/Lists'
 // import LifeCycle from './components/LifeCycle';
 // import Events from './components/Events';
-import Forms from './components/Forms'
+// import Forms from './components/Forms'
+// import OnewayTraffic from './components/onewaytraffic/OnewayTraffic';
+import App from './fcomponents/App'
 
 
 import reportWebVitals from './reportWebVitals';
@@ -45,7 +47,9 @@ root.render(
     {/* <Lists /> */}
     {/* <LifeCycle /> */}
     {/* <Events /> */}
-    <Forms />
+    {/* <Forms /> */}
+    {/* <OnewayTraffic /> */}
+    <App />
   </React.StrictMode>
 );
 
