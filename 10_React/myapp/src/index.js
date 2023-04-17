@@ -14,7 +14,8 @@ import 'semantic-ui-css/semantic.min.css'
 // import Events from './components/Events';
 // import Forms from './components/Forms'
 // import OnewayTraffic from './components/onewaytraffic/OnewayTraffic';
-import App from './fcomponents/App'
+// import App from './fcomponents/App'
+import App from './routes/App'
 
 
 import reportWebVitals from './reportWebVitals';
@@ -50,6 +51,7 @@ root.render(
     {/* <Events /> */}
     {/* <Forms /> */}
     {/* <OnewayTraffic /> */}
+    {/* <App /> */}
     <App />
   </React.StrictMode>
 );
