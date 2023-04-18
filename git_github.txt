@@ -33,6 +33,9 @@ LINKS:
 Namecheap Affiliate Link:
 https://namecheap.pxf.io/c/1299552/386170/5618
 
+RANDOM IMAGES:
+https://picsum.photos/400/256
+
 Netlify:
 http://www.netlify.com
 forms netlify.com  //for form method which will funtional
