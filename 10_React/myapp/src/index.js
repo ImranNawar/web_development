@@ -15,7 +15,9 @@ import 'semantic-ui-css/semantic.min.css'
 // import Forms from './components/Forms'
 // import OnewayTraffic from './components/onewaytraffic/OnewayTraffic';
 // import App from './fcomponents/App'
-import App from './routes/App'
+// import App from './routes/App'
+// import Login from './form/Login';
+import FormikLogin from './form/FormikLogin';
 
 
 import reportWebVitals from './reportWebVitals';
@@ -52,7 +54,9 @@ root.render(
     {/* <Forms /> */}
     {/* <OnewayTraffic /> */}
     {/* <App /> */}
-    <App />
+    {/* <App /> */}
+    {/* <Login /> */}
+    <FormikLogin />
   </React.StrictMode>
 );
 
