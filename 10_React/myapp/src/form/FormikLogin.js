@@ -1,7 +1,7 @@
 import React from 'react'
 import { useFormik } from 'formik'
 import * as Yup from 'yup'
-import { Form, Label, Button, Input } from 'semantic-ui-react'
+import { Label, Button, Input } from 'semantic-ui-react'
 
 const FormikLogin = () => {
   const formik = useFormik({
