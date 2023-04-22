@@ -13,6 +13,9 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 ## JavaScript
 JavaScript is a programming language used to make web pages interactive. You will find many examples of JavaScript code in this repository that will help you to add interactivity to your web pages.
 
+## React
+React is a popular JavaScript library for building interactive and reusable user interfaces in web applications. It uses a declarative approach to define UI components and efficiently updates the DOM, making it a powerful tool for building fast and dynamic web pages.
+
 ### How to Use
 Feel free to explore this repository and use the code examples to help you learn web development. You can also use these examples to jumpstart your own web development projects.
 
