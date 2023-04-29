@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'semantic-ui-css/semantic.min.css'
 // import App from './App';
-// import Home from './Home'
+// import Home from './components/Home'
 // import Card from './components/Card';
 // import Card1 from './components/Card1';
 // import App from './components/nestedComponent/App';
