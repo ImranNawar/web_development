@@ -52,3 +52,38 @@ CONTRIBUTING TO OPEN SOURCE:
 7) git push -u origin your_branch_name
 8)  COMPARE AND PULL REQUEST (on website)
 9)  CREATE PULL REQUEST
+
+
+/*******************************************************/
+Java Setup:
+install jdk-19
+set three paths (bin path, oracle path, and jdk path)
+for confirmation (java --version in cmd)
+video url:   https://youtu.be/WNfvAciOtL4
+Install netbeans
+
+
+Setup for c++ programming in visual studio code:
+Gcc Compiler:
+MinGw : extract mingw from the file and then add the path
+Extensions in VS code for c++: Code Runner and C/C++
+check the box code runner run in terminal in vs code.
+video url:  https://youtu.be/jvg4VtYEhKU
+
+Python setup:
+install python-3.11.2-amd64
+pip will also be installed
+set two paths, python and Scripts
+for confirmation(python --version, pip --version)
+install packages: pip install numpy (in terminal)    etc;
+update pip: python -m pip install --upgrade pip
+
+Javascript setup:
+install node-v18.12.1-x64
+for confimation: node --version, npm --version
+set path;
+install packages: npm install jest (in terminal) etc
+
+To create React app:
+npx create-react-app myapp
+yarn create-react-app imagesearch
