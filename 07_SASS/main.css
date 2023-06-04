@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.main-header {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: #70869c;
+}
+
+h1 {
+  color: blue;
+  font-size: 10rem;
+}
+
+h1:hover {
+  color: aquamarine;
+}/*# sourceMappingURL=main.css.map */
