@@ -1,0 +1,22 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "To experiment different node libraries",
+  "main": "mymodules.js",
+  "scripts": {
+    "start": "node mymodules.js"
+  },
+  "keywords": [
+    "node",
+    "libraries"
+  ],
+  "author": "imran",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "keycode-js": "^3.1.0",
+    "lodash": "^4.17.21",
+    "pm2": "^5.3.0",
+    "uuid": "^9.0.0"
+  }
+}
