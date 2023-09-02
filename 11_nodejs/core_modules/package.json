@@ -1,0 +1,14 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "node js app for notes taking",
+  "main": "fs.js",
+  "scripts": {
+    "start": "node fs.js"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "imran",
+  "license": "ISC"
+}
