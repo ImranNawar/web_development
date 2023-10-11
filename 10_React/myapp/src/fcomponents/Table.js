@@ -9,7 +9,7 @@ const Table = () => {
       setUsers(data)
     }
     loadData();
-  }, [users]) //, [users] keep array empty if you want to run once
+  }, [users]) // [users] keep array empty if you want to run once
   return (
     <div>
       <ul>

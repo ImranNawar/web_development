@@ -1,4 +1,4 @@
-import { useState } from "react"  //export hooks as  named export
+import { useState } from "react"  //export hooks as named export
 import { Button } from 'semantic-ui-react'
 
 export const Body = ({ id, title, desc }) => {  //Destructuring
