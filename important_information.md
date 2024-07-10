@@ -51,26 +51,8 @@ git push -u origin <your_branch_name>
 ![Alt text](./01_learninghtml/images/image.png)
 
 You have made a PR. Now, the project maintainers will review your PR and merge it.
----
----
-
-# ISSUE:
-I was committing to my GitHub repository from the Git terminal for some days. The commits were done successfully, but they were not shown on my activity graph. The problem was that the GitHub email and the Git config email I had provided were different. You can check it by using the command "git config user.email" in the terminal.
-- git config --global user.email "imran1nawar@gmail.com"
-- git config --global user.name "ImranNawar"
 
 ---
----
-## LINKS:
-Namecheap Affiliate Link:
-https://namecheap.pxf.io/c/1299552/386170/5618
-
-RANDOM IMAGES:
-https://picsum.photos/400/256
-
-Netlify:
-http://www.netlify.com
-forms netlify.com  //for form method which will funtional
 
 ## Java Setup:
 - install jdk-19
@@ -101,20 +83,30 @@ forms netlify.com  //for form method which will funtional
 - set path;
 - install packages: npm install jest (in terminal) etc
 
+---
+
 ## React Application setup:
-To create React app:
+A React app can be created using any of the following methods:
+1. Using `npx`:
 ```bash
 npx create-react-app myapp
 ```
+
+2. Using `yarn`:
 ```bash
 yarn create-react-app imagesearch
 ```
 
+3. Using `vite`
 ```bash
 npx create-vite country-information --template react
 cd country-information
 npm install
 npm run dev
 ```
-### Awesome react resources
-<a href="https://github.com/enaqx/awesome-react#react-community">Resources</a>
+
+---
+
+### Awesome React Resources
+
+For a comprehensive list of resources related to React, visit the [Awesome React GitHub repository](https://github.com/enaqx/awesome-react#react-community).
