@@ -13,11 +13,11 @@ git clone https://github.com/<your-account-username>/<your-forked-project>.git
 ```bash
 cd <your-forked-project-folder>
 ```
-**Step 4.** Add a reference to the original repository.
+**Step 4.** Add a reference to the original repository under the name `upstream`.
 ```bash
 git remote add upstream https://github.com/<author-account-username>/<original-project>.git
 ``` 
-**Step 5.** Check the remotes for this repository.
+**Step 5.** Viewing remote repositories and their URLs.
 ```bash
 git remote -v
 ```
